@@ -6,4 +6,4 @@ Follow this to run the code:
 3.Run the python script. 
 4. Find your output as a csv file in the same folder.
 
-The mnemonics are taken from mnemonicdictionary.com. 
+The mnemonics are taken from mnemonicdictionary.com
